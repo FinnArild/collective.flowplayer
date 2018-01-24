@@ -14,9 +14,9 @@ install_requires = [
     'setuptools',
     'plone.app.jquerytools',
     # 'Plone', Too confusing for those using releases < 3.2
-    'hachoir_core',
-    'hachoir_metadata',
-    'hachoir_parser',
+    #'hachoir_core',
+    #'hachoir_metadata',
+    #'hachoir_parser',
     'archetypes.schemaextender',
 ]
 
